@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    background-color: beige;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 18px;
+    color: dimgrey;
+}
+.hilight{
+    color: darkgreen;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.half-width img{
+    width: 100%;
+}
+.lastimg{
+    width: 80%;
+}
+.top-banner{
+    background-image: url(image/top-banner.png);
+}
+.banner{
+    background-image: url(image/dream-bg.png);
+    background-position: right;
+}
+section{
+    height: 550px;
+    background-repeat: no-repeat;
+    margin-bottom: 45px;
+}
+.link{
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: rgb(6, 158, 107);
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+.links{
+    text-decoration: none;
+    background-color: rgb(240, 129, 65);
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    position: relative;
+    margin-top: 50px;
+}
+
+
+.updiv{
+
+    margin-top: 200px;
+
+}
+.ahte-class{
+    width: 162px;
+    margin-top: 28px;
+}
+.three-width{
+   margin-left: 25px;
+   margin-bottom: 50px;
+   height: 300px;
+   padding: 1%;
+    float: left;
+    width: 12%;
+    background-position: center;
+   background-color: rgb(230, 247, 247);
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 15px;
+}
+.app-text{
+    font-size: 15px;
+}
+
+.app-area{
+margin: 0;
+}
+.f-div{
+    margin-left: 25px;
+}
+#youtube{
+    margin-top: 0px;
+}
